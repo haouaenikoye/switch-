@@ -1,0 +1,51 @@
+.appstore{
+    display: flex;
+    justify-content:space-between;
+}
+
+.instagram{
+    display: flex;
+    justify-content:space-between;
+}
+
+.facebook{
+    display: flex;
+    justify-content:space-between;
+}
+
+.safari{
+    display: flex;
+    justify-content:space-between;
+}
+
+.youtube{
+    display: flex;
+    justify-content:space-between;
+}
+
+.netflix{
+    display: flex;
+    justify-content:space-between;
+}
+
+
+.twitch{
+    display: flex;
+    justify-content:space-between;
+}
+
+.snapchat{
+    display: flex;
+    justify-content:space-between;
+}
+
+.agar{
+    display: flex;
+    justify-content:space-between;
+}
+
+.io{
+    display: flex;
+    
+}
+
